@@ -15,6 +15,16 @@ This project aims to do the following:
 * View Favorites List
 * Available offline. 
 
+Set up to run Project:
+* Check out project
+* open Terminal 
+* install CocoaPods
+* cd Project Path
+* run "Pod install"
+* open file "PTinder.xcworkspace"
+* Run Project
+* Run Test
+
 
 ## Development Environment
 * Xcode 12.0.1
